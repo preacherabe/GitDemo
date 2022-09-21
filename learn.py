@@ -34,4 +34,20 @@ dogs.append("kenny")
 
 print(dogs)
 
+dogs += ['Judah']
+
+dogs.remove("kenny")
+
+dogs.insert(3, "marriage")
+
 dogs.extend(["Martins", 5, 6, 7])
+
+# tuples in the tutorial
+
+names = ("rogers", "syed")
+
+name[-1]
+names.index("rogers")
+
+len(names)
+
